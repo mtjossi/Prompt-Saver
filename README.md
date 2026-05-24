@@ -8,10 +8,10 @@ A simple Chrome extension for saving, organizing, and injecting your most-used A
 - **Filter** by project, tags, or full-text search
 - **Copy** a prompt to clipboard or **inject** it directly into the active page
 - **Organize** prompts with projects, tags, and drag-to-reorder sorting
-- **Bulk actions** — select multiple prompts to delete or export
-- **Prompt chains** — define sequences of prompts that fire in order
-- **Context menu integration** — right-click selected text to save as prompt, or right-click anywhere to copy/inject your top prompts
-- **Import/Export** — JSON backup or Markdown documentation
+- **Bulk actions:** select multiple prompts to delete or export
+- **Prompt chains:** define sequences of prompts that fire in order
+- **Context menu integration:** right-click selected text to save as prompt, or right-click anywhere to copy/inject your top prompts
+- **Import/Export:** JSON backup or Markdown documentation
 
 ## Development
 
