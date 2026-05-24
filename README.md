@@ -1,6 +1,6 @@
 # Prompt Saver
 
-A Chrome extension for saving, organizing, and injecting your most-used AI prompts.
+A simple Chrome extension for saving, organizing, and injecting your most-used AI prompts.
 
 ## Features
 
